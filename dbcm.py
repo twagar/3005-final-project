@@ -1,0 +1,32 @@
+import sqlite3 as sql
+"""
+Final Project - ADEV-3005
+2025-10-29, Tanner Agar
+dbcm.py - Context manager for database operations
+"""
+
+
+
+"""
+Context manager class for handling database connection/cursor lifecycle.
+"""
+class DBCM():
+
+    def __init__(self):
+        self.table_name = None
+        self.conn = None
+        self.cursor = None
+
+    def __enter__(self):
+        self.conn = sql.connect(self.table_name)
+        self.cursor = self.conn.cursor()
+        return self.cursor
+
+    def __exit__(self, exc_type, exc_value, exc_traceback):
+        if self.cursor:
+            self.cursor.close()
+        if self.conn:
+            self.conn.commit()
+            self.conn.close()
+        return False
+
