@@ -1,4 +1,5 @@
 import sqlite3 as sql
+
 """
 Final Project - ADEV-3005
 2025-10-29, Tanner Agar
@@ -12,13 +13,13 @@ Context manager class for handling database connection/cursor lifecycle.
 """
 class DBCM():
 
-    def __init__(self):
-        self.table_name = None
+    def __init__(self, db_name: str):
+        self.db_name = db_name
         self.conn = None
         self.cursor = None
 
     def __enter__(self):
-        self.conn = sql.connect(self.table_name)
+        self.conn = sql.connect(self.db_name)
         self.cursor = self.conn.cursor()
         return self.cursor
 
