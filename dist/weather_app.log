@@ -1,0 +1,65 @@
+2025-11-26 16:18:10 - root - INFO - Connected to database: weather.sqlite
+2025-11-26 16:18:10 - root - INFO - Database cursor created.
+2025-11-26 16:18:10 - root - INFO - Table 'weather_db' created in database.
+2025-11-26 16:18:10 - root - INFO - Database connection closed.
+2025-11-26 16:18:19 - root - INFO - Completed pass for date: 2020-01-01, data: {'Location': 'WINNIPEG A CS', 'Max': -3.5, 'Min': -12.3, 'Mean': -7.9}
+2025-11-26 16:18:19 - root - INFO - Completed pass for date: 2020-01-02, data: {'Location': 'WINNIPEG A CS', 'Max': -6.0, 'Min': -8.2, 'Mean': -7.1}
+2025-11-26 16:18:19 - root - INFO - Completed pass for date: 2020-01-03, data: {'Location': 'WINNIPEG A CS', 'Max': -1.0, 'Min': -6.8, 'Mean': -3.9}
+2025-11-26 16:18:19 - root - INFO - Completed pass for date: 2020-01-04, data: {'Location': 'WINNIPEG A CS', 'Max': -3.4, 'Min': -5.2, 'Mean': -4.3}
+2025-11-26 16:18:19 - root - INFO - Completed pass for date: 2020-01-05, data: {'Location': 'WINNIPEG A CS', 'Max': -1.6, 'Min': -13.4, 'Mean': -7.5}
+2025-11-26 16:18:19 - root - INFO - Completed pass for date: 2020-01-06, data: {'Location': 'WINNIPEG A CS', 'Max': -0.1, 'Min': -14.9, 'Mean': -7.5}
+2025-11-26 16:18:19 - root - INFO - Completed pass for date: 2020-01-07, data: {'Location': 'WINNIPEG A CS', 'Max': -8.9, 'Min': -23.9, 'Mean': -16.4}
+2025-11-26 16:18:19 - root - INFO - Completed pass for date: 2020-01-08, data: {'Location': 'WINNIPEG A CS', 'Max': -15.0, 'Min': -26.0, 'Mean': -20.5}
+2025-11-26 16:18:19 - root - INFO - Completed pass for date: 2020-01-09, data: {'Location': 'WINNIPEG A CS', 'Max': -11.1, 'Min': -19.4, 'Mean': -15.3}
+2025-11-26 16:18:19 - root - INFO - Completed pass for date: 2020-01-10, data: {'Location': 'WINNIPEG A CS', 'Max': -15.6, 'Min': -26.6, 'Mean': -21.1}
+2025-11-26 16:18:19 - root - INFO - Completed pass for date: 2020-01-11, data: {'Location': 'WINNIPEG A CS', 'Max': -15.9, 'Min': -27.9, 'Mean': -21.9}
+2025-11-26 16:18:19 - root - INFO - Completed pass for date: 2020-01-12, data: {'Location': 'WINNIPEG A CS', 'Max': -9.2, 'Min': -16.4, 'Mean': -12.8}
+2025-11-26 16:18:19 - root - INFO - Completed pass for date: 2020-01-13, data: {'Location': 'WINNIPEG A CS', 'Max': -5.9, 'Min': -9.4, 'Mean': -7.6}
+2025-11-26 16:18:19 - root - INFO - Completed pass for date: 2020-01-14, data: {'Location': 'WINNIPEG A CS', 'Max': -8.9, 'Min': -23.9, 'Mean': -16.4}
+2025-11-26 16:18:19 - root - INFO - Completed pass for date: 2020-01-15, data: {'Location': 'WINNIPEG A CS', 'Max': -21.3, 'Min': -29.2, 'Mean': -25.2}
+2025-11-26 16:18:20 - root - INFO - Completed pass for date: 2020-01-16, data: {'Location': 'WINNIPEG A CS', 'Max': -21.8, 'Min': -34.0, 'Mean': -27.9}
+2025-11-26 16:18:20 - root - INFO - Completed pass for date: 2020-01-17, data: {'Location': 'WINNIPEG A CS', 'Max': -5.8, 'Min': -22.3, 'Mean': -14.1}
+2025-11-26 16:18:20 - root - INFO - Completed pass for date: 2020-01-18, data: {'Location': 'WINNIPEG A CS', 'Max': -6.1, 'Min': -17.1, 'Mean': -11.6}
+2025-11-26 16:18:20 - root - INFO - Completed pass for date: 2020-01-19, data: {'Location': 'WINNIPEG A CS', 'Max': -14.7, 'Min': -28.4, 'Mean': -21.6}
+2025-11-26 16:18:20 - root - INFO - Completed pass for date: 2020-01-20, data: {'Location': 'WINNIPEG A CS', 'Max': -16.9, 'Min': -28.7, 'Mean': -22.8}
+2025-11-26 16:18:20 - root - INFO - Completed pass for date: 2020-01-21, data: {'Location': 'WINNIPEG A CS', 'Max': -8.1, 'Min': -17.4, 'Mean': -12.8}
+2025-11-26 16:18:20 - root - INFO - Completed pass for date: 2020-01-22, data: {'Location': 'WINNIPEG A CS', 'Max': -3.5, 'Min': -16.9, 'Mean': -10.2}
+2025-11-26 16:18:20 - root - INFO - Completed pass for date: 2020-01-23, data: {'Location': 'WINNIPEG A CS', 'Max': -5.5, 'Min': -9.4, 'Mean': -7.5}
+2025-11-26 16:18:20 - root - INFO - Completed pass for date: 2020-01-24, data: {'Location': 'WINNIPEG A CS', 'Max': -5.1, 'Min': -6.8, 'Mean': -6.0}
+2025-11-26 16:18:20 - root - INFO - Completed pass for date: 2020-01-25, data: {'Location': 'WINNIPEG A CS', 'Max': -5.1, 'Min': -7.0, 'Mean': -6.0}
+2025-11-26 16:18:20 - root - INFO - Completed pass for date: 2020-01-26, data: {'Location': 'WINNIPEG A CS', 'Max': -6.8, 'Min': -10.9, 'Mean': -8.9}
+2025-11-26 16:18:20 - root - INFO - Completed pass for date: 2020-01-27, data: {'Location': 'WINNIPEG A CS', 'Max': -8.2, 'Min': -10.8, 'Mean': -9.5}
+2025-11-26 16:18:20 - root - INFO - Completed pass for date: 2020-01-28, data: {'Location': 'WINNIPEG A CS', 'Max': -9.5, 'Min': -15.3, 'Mean': -12.4}
+2025-11-26 16:18:20 - root - INFO - Completed pass for date: 2020-01-29, data: {'Location': 'WINNIPEG A CS', 'Max': -7.4, 'Min': -15.3, 'Mean': -11.3}
+2025-11-26 16:18:20 - root - INFO - Completed pass for date: 2020-01-30, data: {'Location': 'WINNIPEG A CS', 'Max': -4.1, 'Min': -8.1, 'Mean': -6.1}
+2025-11-26 16:18:20 - root - INFO - Completed pass for date: 2020-01-31, data: {'Location': 'WINNIPEG A CS', 'Max': -2.1, 'Min': -5.2, 'Mean': -3.6}
+2025-11-26 16:18:20 - root - INFO - Completed scraping for 2020-01, moving to next month.
+2025-11-26 16:18:20 - root - INFO - Completed pass for date: 2020-02-01, data: {'Location': 'WINNIPEG A CS', 'Max': -0.6, 'Min': -8.6, 'Mean': -4.6}
+2025-11-26 16:18:20 - root - INFO - Completed pass for date: 2020-02-02, data: {'Location': 'WINNIPEG A CS', 'Max': 0.0, 'Min': -10.6, 'Mean': -5.3}
+2025-11-26 16:18:20 - root - INFO - Completed pass for date: 2020-02-03, data: {'Location': 'WINNIPEG A CS', 'Max': -10.5, 'Min': -20.9, 'Mean': -15.7}
+2025-11-26 16:18:20 - root - INFO - Completed pass for date: 2020-02-04, data: {'Location': 'WINNIPEG A CS', 'Max': -13.7, 'Min': -21.6, 'Mean': -17.6}
+2025-11-26 16:18:20 - root - INFO - Completed pass for date: 2020-02-05, data: {'Location': 'WINNIPEG A CS', 'Max': -6.5, 'Min': -16.3, 'Mean': -11.4}
+2025-11-26 16:18:21 - root - INFO - Completed pass for date: 2020-02-06, data: {'Location': 'WINNIPEG A CS', 'Max': -12.9, 'Min': -23.9, 'Mean': -18.4}
+2025-11-26 16:18:21 - root - INFO - Completed pass for date: 2020-02-07, data: {'Location': 'WINNIPEG A CS', 'Max': -17.4, 'Min': -30.5, 'Mean': -23.9}
+2025-11-26 16:18:21 - root - INFO - Completed pass for date: 2020-02-08, data: {'Location': 'WINNIPEG A CS', 'Max': -10.8, 'Min': -18.3, 'Mean': -14.6}
+2025-11-26 16:18:21 - root - INFO - Completed pass for date: 2020-02-09, data: {'Location': 'WINNIPEG A CS', 'Max': -6.8, 'Min': -14.0, 'Mean': -10.4}
+2025-11-26 16:18:21 - root - INFO - Completed pass for date: 2020-02-10, data: {'Location': 'WINNIPEG A CS', 'Max': -5.5, 'Min': -18.5, 'Mean': -12.0}
+2025-11-26 16:18:21 - root - INFO - Completed pass for date: 2020-02-11, data: {'Location': 'WINNIPEG A CS', 'Max': -1.8, 'Min': -15.2, 'Mean': -8.5}
+2025-11-26 16:18:21 - root - INFO - Completed pass for date: 2020-02-12, data: {'Location': 'WINNIPEG A CS', 'Max': -14.2, 'Min': -30.3, 'Mean': -22.3}
+2025-11-26 16:18:21 - root - INFO - Completed pass for date: 2020-02-13, data: {'Location': 'WINNIPEG A CS', 'Max': -19.1, 'Min': -27.9, 'Mean': -23.5}
+2025-11-26 16:18:21 - root - INFO - Completed pass for date: 2020-02-14, data: {'Location': 'WINNIPEG A CS', 'Max': -8.1, 'Min': -22.8, 'Mean': -15.5}
+2025-11-26 16:18:21 - root - INFO - Completed pass for date: 2020-02-15, data: {'Location': 'WINNIPEG A CS', 'Max': -5.7, 'Min': -26.1, 'Mean': -15.9}
+2025-11-26 16:18:21 - root - INFO - Completed pass for date: 2020-02-16, data: {'Location': 'WINNIPEG A CS', 'Max': -10.9, 'Min': -26.3, 'Mean': -18.6}
+2025-11-26 16:18:21 - root - INFO - Completed pass for date: 2020-02-17, data: {'Location': 'WINNIPEG A CS', 'Max': -10.1, 'Min': -14.3, 'Mean': -12.2}
+2025-11-26 16:18:21 - root - INFO - Completed pass for date: 2020-02-18, data: {'Location': 'WINNIPEG A CS', 'Max': -13.1, 'Min': -25.8, 'Mean': -19.5}
+2025-11-26 16:18:21 - root - INFO - Completed pass for date: 2020-02-19, data: {'Location': 'WINNIPEG A CS', 'Max': -17.2, 'Min': -29.4, 'Mean': -23.3}
+2025-11-26 16:18:21 - root - INFO - Completed pass for date: 2020-02-20, data: {'Location': 'WINNIPEG A CS', 'Max': -6.9, 'Min': -21.5, 'Mean': -14.2}
+2025-11-26 16:18:21 - root - INFO - Completed pass for date: 2020-02-21, data: {'Location': 'WINNIPEG A CS', 'Max': 2.1, 'Min': -10.0, 'Mean': -4.0}
+2025-11-26 16:18:21 - root - INFO - Completed pass for date: 2020-02-22, data: {'Location': 'WINNIPEG A CS', 'Max': 1.9, 'Min': -10.2, 'Mean': -4.2}
+2025-11-26 16:18:21 - root - ERROR - An error occurred during scraping: object of type 'NoneType' has no len()
+2025-11-26 16:18:21 - root - INFO - Closing the web driver.
+2025-11-26 16:18:23 - root - INFO - Connected to database: weather.sqlite
+2025-11-26 16:18:23 - root - INFO - Database cursor created.
+2025-11-26 16:18:23 - root - INFO - Database connection closed.
+2025-11-26 16:18:23 - root - INFO - Saved 53 new records to the database.
+2025-11-26 16:18:23 - root - INFO - Downloaded database from 2020-01-01 00:00:00 to 2025-11-26 16:18:14.028529.
